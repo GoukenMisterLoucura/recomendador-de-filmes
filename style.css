@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(108, 104, 104);
     color: yellow
 }
 header{
@@ -11,5 +11,6 @@ header{
 
 section{
     display: flex;
-    background-color: darkorchid;
+    background-color: rgb(138, 98, 157);
+    margin: 0;
 }
