@@ -11,7 +11,6 @@ header{
 }
 
 section{
-    display: flex;
     background-color: rgb(129, 59, 161);
 padding: 30px;
 justify-content: center;
