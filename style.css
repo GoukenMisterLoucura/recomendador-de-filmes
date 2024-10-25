@@ -1,6 +1,6 @@
 body {
     background-color: rgb(108, 104, 104);
-    color: rgb(201, 201, 94)
+    color: rgb(255, 255, 0)
 }
 header{
     font-size: 50px;
@@ -11,6 +11,6 @@ header{
 
 section{
     display: flex;
-    background-color: rgb(115, 85, 129);
+    background-color: rgb(129, 59, 161);
 
 }
