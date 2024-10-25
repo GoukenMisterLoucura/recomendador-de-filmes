@@ -7,6 +7,7 @@ header{
     color: rgb(255, 0, 0);
     border-bottom: sold 15px rgb(29, 47, 110);
     text-align: center;
+    font-family: "Playwrite DE Grund", cursive
 }
 
 section{
@@ -16,5 +17,5 @@ padding: 30px;
 justify-content: center;
 }
 .chamada-texto{
-    padding-right: 5%;
+    padding-right: 50%;
 }
