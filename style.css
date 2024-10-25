@@ -1,6 +1,6 @@
 body {
     background-color: rgb(108, 104, 104);
-    color: yellow
+    color: rgb(201, 201, 94)
 }
 header{
     font-size: 50px;
@@ -12,5 +12,4 @@ header{
 section{
     display: flex;
     background-color: rgb(138, 98, 157);
-    margin: 0;
 }
