@@ -10,7 +10,7 @@ header{
     font-family: "Playwrite DE Grund", cursive
 }
 
-section{
+.primeira{
     background-color: rgb(129, 59, 161);
 padding: 30px;
 justify-content: center;
