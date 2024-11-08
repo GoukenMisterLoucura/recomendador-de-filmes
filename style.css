@@ -26,3 +26,18 @@ img{
     width: 210px;
     height: 280px;
 }
+
+.segunda {
+justify-content: center;
+margin-bottom: 80px;
+padding-bottom: 30px;
+
+}
+
+h2 {
+text-align: center;
+}
+
+.outros{
+justify-content: center;
+}
