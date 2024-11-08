@@ -30,7 +30,7 @@ img{
 
 img:hover{
     opacity: 1.0
-    border:solid 2px ;
+    border:solid 2px white;
 }
 
 .segunda {
